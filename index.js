@@ -18,9 +18,9 @@ function divide(num1, num2) {
 }
 
 function inc(n) {
-  return n++
+  return ++n
 }
 
 function dec(n) {
-  return n--
+  return --n
 }
